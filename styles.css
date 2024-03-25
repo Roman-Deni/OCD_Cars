@@ -1,0 +1,51 @@
+body {
+    background-color: antiquewhite;
+}
+header {
+    text-shadow: 0 0 3px #222, 0 0 15px #fff;
+    width: auto;
+    height: 500px;
+    font-size: 62px;
+    font-family: 'Magneto', sans-serif;
+    background-size: cover;
+}
+a {
+    color: darkgoldenrod;
+}
+a:active {
+    color: goldenrod;
+}
+a:visited {
+    color: brown;
+}
+footer {
+    text-align: center;
+}
+#Photo2 {
+    width: 500px;
+}
+#Photo2:hover {
+    width: 1000px;
+}
+
+table {
+    margin: auto;
+    font-size: 32px;
+    border: 2px solid black;
+}
+table td, th {
+    padding: 5px;
+    border: 2px solid black;
+}
+table img {
+    width: 300px;
+}
+button {
+    background-color: #8c8c8c !important;
+    color: white !important;
+    padding: 5px !important;
+    border: 1px solid black !important;
+}
+button:hover {
+    background-color: #4c4c4c !important;
+}
