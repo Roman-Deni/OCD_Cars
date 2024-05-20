@@ -27,6 +27,16 @@ footer {
 #Photo2:hover {
     width: 1000px;
 }
+p + a {
+    font-size: larger;
+    font-family: 'Georgia', sans-serif;
+}
+span + i {
+    color: #a80;
+}
+div > img {
+    width: 100%;
+}
 
 table {
     margin: auto;
